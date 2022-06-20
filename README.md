@@ -211,7 +211,9 @@ Key points covered:
 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week 9 (14 March - 18 March):**
+
+**Week 9 ( 14 March - 18 March):**
+
 
 ## Overview of Database Services
 -Relational & Non-relational databases
@@ -379,7 +381,7 @@ Explore the structure of the relational database.
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Week 20(30 May - 3 June):**
+**Week 2 ( 30 May-3 june):**
 
 ## Made an amflix application that would be highly available.
 <br>
