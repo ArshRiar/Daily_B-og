@@ -368,7 +368,8 @@ Scale and Load Balance AWS architecture
 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week 19(23 May - 27 May):**
+
+**Week 19 ( 23 May-27 May):**
 ## Creating an Amazon RDS Database Instance
 Set up an RDS DB instance
 Download and install SQL Server Management Studio
@@ -381,7 +382,7 @@ Explore the structure of the relational database.
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Week 2 ( 30 May-3 june):**
+**Week 20 ( 30 May-3 june):**
 
 ## Made an amflix application that would be highly available.
 <br>
